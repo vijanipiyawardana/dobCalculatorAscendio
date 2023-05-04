@@ -11,4 +11,21 @@ public class DobCalculatorTest {
        assertTrue(numberOfDays == 8523);
     }
 
+    @Test
+    void shouldGiveCorrectOutputFormat(){
+
+    }
+
+    @Test
+    void shouldNotGiveFutureDays(){
+
+    }
+
+    @Test
+    void shouldHandleEmptyDob(){
+
+    }
+
+
+
 }
